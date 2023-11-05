@@ -21,7 +21,7 @@
 要开始使用这个聊天服务器，您需要将此代码库克隆到您的本地计算机。可以运行以下命令来完成此操作：
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/yaocanwei/smallchat.git
 ```
 
 克隆代码库后，导航到代码库所在的目录，并使用 Go 构建命令构建服务器：

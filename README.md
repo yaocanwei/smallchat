@@ -21,7 +21,7 @@ Before you can run this server, you need to have Go installed on your system. Yo
 To start using this chat server, you need to clone this repository to your local machine. You can do this by running the following command:
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/yaocanwei/smallchat.git
 ```
 
 After cloning the repository, navigate to the directory where the repository is located and build the server using the Go build command:
