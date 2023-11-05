@@ -1,0 +1,102 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Project local glide cache
+.glide/
+
+# The directory Build uses to store cache
+.var/
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-specific glide cache, RE:bolt db issue
+**/vendor/github.com/tylertreat/bolt-store/**/boltdb
+
+# Personal VSCode settings
+.vscode/
+
+# Editor files and folders
+*.swp
+*.swo
+*~
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.s
+
+# Compiled Object files and binaries (from go build or go test)
+*.o
+*.a
+*.so
+*.exe
+*.test
+*.cover
+
+# Folders to ignore
+bin/
+pkg/
+
+# Logs
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# The binary I build
+chatserver
+
+# Test binary, build with "go test -c"
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+/vendor/
+
+# Coverage files
+*.coverprofile
+*.coverage
+cover/
+
+
+# local configuration file
+*.toml
+*.yaml
+*.yml
+*.json
+*.env
+*.ini
+
+# If you are using any JetBrains IDE
+.idea/
+
+# Certificates
+*.cert
+*.key
+
