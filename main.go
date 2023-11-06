@@ -12,7 +12,7 @@
  * - Go-routine for each client handling.
  * - Graceful shutdown on receiving interrupt or terminate signals.
  *
- * Copyright (c) 2023, cheneyyao<1248014498@qq.com>
+ * Copyright (c) 2023, cheney
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
