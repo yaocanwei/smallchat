@@ -1,6 +1,6 @@
 # Chat Server in Go
 
-This repository contains a simple chat server written in Go. The server allows multiple clients to connect and communicate with each other using TCP connections. Clients can set their nicknames and send messages to the entire chat room.
+This repository is a Go language-based transformation of the original [smallchat](https://github.com/antirez/smallchat) by antirez. We present a simple yet powerful chat server written in Go, leveraging the concurrency and network libraries of Go to provide a robust chat service that handles multiple clients over TCP connections.
 
 ## Features
 
