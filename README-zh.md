@@ -1,6 +1,6 @@
 # Go 聊天服务器
 
-代码基于 antirez 的原始 [smallchat](https://github.com/antirez/smallchat) 项目进行了Go语言版本的改造。我们提供了一个简单而强大的 Go 聊天服务器，使用 Go 的并发和网络库，为多个客户端提供了通过 TCP 连接进行沟通的强大聊天服务。
+代码基于 antirez 的原始 [smallchat](https://github.com/antirez/smallchat) 项目进行了Go语言版本的改造。提供了一个简单而强大的 Go 聊天服务器，使用 Go 的并发和网络库，为多个客户端提供了通过 TCP 连接进行沟通的强大聊天服务。
 
 ## 特性
 
